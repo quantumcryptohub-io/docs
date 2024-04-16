@@ -1,3 +1,4 @@
+
 name: Azure - Destroy Preview Env
 
 # **What it does**: Destroys resources associated with a PRs Azure preview environment
